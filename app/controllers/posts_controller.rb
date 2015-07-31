@@ -1,4 +1,5 @@
 class PostsController < ApplicationController
+  before_action :authenticate_user!, except: [:index, :show] #if you want to write a post it takes you to sign up
   def index
     @posts = Post.all.order('created_at DESC')
   end
