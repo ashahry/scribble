@@ -2,13 +2,13 @@
 
 
 
-<p>
-  1) I want my users to be able to log in/out<br>
-  2) I want my users to post<br>
-  3) I want users to be able to comment on someone's post<br>
-  4) I want my users to see the dates on the posts<br>
+
+  1) I want my users to be able to log in/out
+  2) I want my users to post
+  3) I want users to be able to comment on someone's post
+  4) I want my users to see the dates on the posts
   5) I want my users to be able to click on social media links and connect with me on social media websites.
-</p>
+
 
 
 
