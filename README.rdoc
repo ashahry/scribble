@@ -1,6 +1,7 @@
 == README
 
-
+Comfort level: 4/5
+completeness 5/5
 
 
   1) I want my users to be able to log in/out
